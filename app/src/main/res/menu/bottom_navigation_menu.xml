@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/hm"
+        android:title="Home" />
+    <item
+        android:id="@+id/calculator"
+        android:icon="@drawable/baseline_calculate_24"
+        android:title="Calculator" />
+    <item
+        android:id="@+id/shipment"
+        android:icon="@drawable/baseline_restore_24"
+        android:title="Shipment" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_perm_identity_24"
+        android:title="Profile" />
+</menu>

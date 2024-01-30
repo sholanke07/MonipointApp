@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="field_stroke">#dfe3e9</color>
+    <color name="colorAccent">#550aa1</color>
+</resources>
